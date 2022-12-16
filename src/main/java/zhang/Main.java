@@ -18,6 +18,7 @@ public class Main {
         context.refresh();
         userService bean = context.getBean(userService.class);
         System.out.println(bean);
+        System.out.println("modify");
     }
 
 }

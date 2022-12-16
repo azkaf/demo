@@ -21,6 +21,7 @@ public class Main {
         System.out.println("modify");
         System.out.println("hotfix-commit1");
         System.out.println("hotfix-commit2");
+        System.out.println("master-commit3");
     }
 
 }

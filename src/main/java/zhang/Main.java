@@ -20,6 +20,7 @@ public class Main {
         System.out.println(bean);
         System.out.println("modify");
         System.out.println("hotfix-commit1");
+        System.out.println("hotfix-commit2");
     }
 
 }

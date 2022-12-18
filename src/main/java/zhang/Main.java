@@ -22,6 +22,8 @@ public class Main {
         System.out.println("hotfix-commit1");
         System.out.println("hotfix-commit2");
         System.out.println("master-commit3");
+        System.out.println("pull test");
+        
     }
 
 }
